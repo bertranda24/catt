@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo"Hello word sample !!!!!!!!!";
+    echo"NGO BIMEZE BITE BERTRAND";
     ?>
 </body>
 </html>
